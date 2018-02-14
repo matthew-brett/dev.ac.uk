@@ -49,7 +49,7 @@ It's very common to have the following situation:
 
 The combination is - data science, and statistics.
 
-# Teaching data science
+# Teaching data science, and all of statistics
 
 Loading data, reviewing data, plotting data:
 
@@ -65,7 +65,7 @@ With thanks and a recommendation for:
 
 * Go to https://notebooks.azure.com/matthewbrett/libraries/dev-ac-uk
 * Clone that site (you'll need a free Microsoft login), and click on the
-  `brexit` notebook.
+  `getting_started` notebook.
 
 # Setup of the demo - running on your laptop
 
@@ -85,3 +85,88 @@ unzip dev.ac.uk-master.zip
 cd dev.ac.uk-master
 jupyter notebook
 ```
+
+# Code for everyone
+
+We have seen code as a way of:
+
+* expressing operations on data;
+* doing (and explaining) statistical inference.
+
+Superficially, this is a course for scientists.  But all academic fields are now analyzing data, as are the media.  So, how should we teach?
+
+# Berkeley Fundamentals of Data Science course
+
+* All subjects (arts, sciences ...).
+* Written as interactive Jupyter Notebooks.
+* Textbook at https://www.inferentialthinking.com
+
+# Back to the demo
+
+* https://notebooks.azure.com/matthewbrett/libraries/dev-ac-uk
+* `Plotting the classics.ipynb`.
+* `Literary characters.ipynb`.
+
+See the README for the site for the license of these files.
+
+# The Berkeley course is substantial
+
+See : https://www.inferentialthinking.com/chapters/16/classification.html
+
+# Beyond the basics
+
+* Many academic fields need a lot of computation.
+* Computation is often done in a very sloppy and disorganized way.
+* It's easy to make errors.
+* People usually don't share their analyses.
+
+# Easy to make errors in computation
+
+> In my own experience, error is ubiquitous in scientific computing, and one
+> needs to work very diligently and energetically to eliminate it. One needs
+> a very clear idea of what has been done in order to know where to look for
+> likely sources of error. I often cannot really be sure what a student or
+> colleague has done from his/her own presentation, and in fact often his/her
+> description does not agree with my own understanding of what has been done,
+> once I look carefully at the scripts.
+
+David L. Donoho (2010) "An invitation to reproducible computational research"
+*Biostatistics* 11(3) 385
+
+# Sharing analyses
+
+> An article about computational science in a scientific publication is
+> **not** the scholarship itself, it is merely **advertising** of the
+> scholarship. The actual scholarship is the complete software development
+> environment and the complete set of instructions which generated the
+> figures.
+
+Jonathan B. Buckheit and David L. Donoho (1995) "Wavelab and reproducible
+research" http://statweb.stanford.edu/~wavelab/Wavelab_850/wavelab.pdf
+
+# What tools do we need to teach for this endeavor?
+
+# What tools do we need to teach for this endeavor?
+
+* Unix command line;
+* Text editor for everything (including presentations);
+* Git for version control;
+* A scientific programming language such as Python or R;
+* Unit testing, code coverage, continuous integration;
+* make / Makefiles;
+
+# Can it be taught?
+
+* http://www.jarrodmillman.com/rcsds
+* https://github.com/berkeley-stat159
+
+# How can I help?
+
+* It's a culture; spread the culture;
+* Organize meetups, interest groups, talks;
+* Find like-minded lecturers to support you, and for you to support.
+* Consider forming or joining a Hacker Within group: http://www.thehackerwithin.org.
+
+# Is this the end?
+
+Yes, it's the end of the talk.
