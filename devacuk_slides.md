@@ -53,8 +53,10 @@ The combination is - data science, and statistics.
 
 Loading data, reviewing data, plotting data:
 
-* Course page: https://matthew-brett.github.io/les-pilot
-* Our page: https://notebooks.azure.com/matthewbrett/libraries/dev-ac-uk
+* Course page at [https://matthew-brett.github.io/les-pilot](
+  https://matthew-brett.github.io/les-pilot);
+* Our notebooks at
+  [https://notebooks.azure.com/matthewbrett/libraries/dev-ac-uk](https://notebooks.azure.com/matthewbrett/libraries/dev-ac-uk)
 
 With thanks and a recommendation for:
 
@@ -63,7 +65,8 @@ With thanks and a recommendation for:
 
 # Setup for the demo - running on Azure
 
-* Go to https://notebooks.azure.com/matthewbrett/libraries/dev-ac-uk
+* Go to
+  [https://notebooks.azure.com/matthewbrett/libraries/dev-ac-uk](https://notebooks.azure.com/matthewbrett/libraries/dev-ac-uk);
 * Clone that site (you'll need a free Microsoft login), and click on the
   `getting_started` notebook.
 
