@@ -75,12 +75,13 @@ With thanks and a recommendation for:
 You can also run this on your own machine if you have Python and pip set up:
 
 ```
+# If you have Anaconda, you will already have these
 pip install pandas
 pip install jupyter[notebook]
 ```
 
-Download https://github.com/matthew-brett/dev.ac.uk (via 'Clone or Download',
-'Download zip').
+Download https://github.com/matthew-brett/dev.ac.uk (via 'Clone or Download'
+-> 'Download zip').
 
 ```
 cd directory_containing_download
@@ -136,6 +137,34 @@ See : https://www.inferentialthinking.com/chapters/16/classification.html
 David L. Donoho (2010) "An invitation to reproducible computational research"
 *Biostatistics* 11(3) 385
 
+# A culture of error
+
+Scientists at Amgen (a drug company) tried to reproduce findings from 53
+"landmark" studies.
+
+> ... when findings could not be reproduced, an attempt was made to contact
+> the original authors, discuss the discrepant findings, exchange reagents and
+> repeat experiments under the authors’ direction, occasionally even in the
+> laboratory of the original investigator.
+
+Of 53 studies, only 6 replicated (11%).
+
+Glenn Begley and Lee Ellis (2012) "Raise standards for preclinical cancer
+research" Nature 483
+
+# Improving process
+
+> In studies for which findings could be reproduced, authors had paid close
+> attention to controls, reagents, investigator bias and describing the
+> complete data set. For results that could not be reproduced, however, data
+> were not routinely analysed by investigators blinded to the experimental
+> versus control groups. Investigators frequently presented the results of one
+> experiment, such as a single Western-blot analysis. They sometimes said they
+> presented specific experiments that supported their underlying hypothesis,
+> but that were not reflective of the entire data set.
+
+Begley and Ellis (2012).
+
 # Sharing analyses
 
 > An article about computational science in a scientific publication is
@@ -166,9 +195,12 @@ research" http://statweb.stanford.edu/~wavelab/Wavelab_850/wavelab.pdf
 # How can I help?
 
 * It's a culture; spread the culture;
+* Advocate for open source, serious computing;
 * Organize meetups, interest groups, talks;
 * Find like-minded lecturers to support you, and for you to support.
-* Consider forming or joining a Hacker Within group: http://www.thehackerwithin.org.
+* Consider forming or joining a Hacker Within group:
+  http://www.thehackerwithin.org.
+* Your message here.
 
 # Is this the end?
 
